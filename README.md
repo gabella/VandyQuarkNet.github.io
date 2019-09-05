@@ -1,6 +1,6 @@
 # VandyQuarkNet.github.io
 Web site describing the Vanderbilt QuarkNet Program for science enhancement in the high school classroom.
-Right now (20190905) you get to it from gabella.github.com/VandyQuarkNet.github.io .
+Right now (20190905) you get to it from https://gabella.github.com/VandyQuarkNet.github.io .
 
 Trying to have a Vanderbilt QuarkNet website here that I could hand-off one day.  It is possible to have many Pages 
 accounts from one login, something like gabella.github.com/VandyQuarkNet, but you have to "push" to the gh-pages.
